@@ -10,7 +10,7 @@ A YOLOv8-based object detection model trained to detect buds in vineyard images.
 | `train.py` | Trains YOLOv8n on the prepared dataset |
 | `inference.py` | Runs the trained model over a directory of images |
 | `best.pt` | Trained model weights (best checkpoint, epoch 62) |
-| `report.docx` | Full training report with methodology, results, and analysis |
+| `Report.pdf` | Full training report with methodology, results, and analysis |
 
 ## Usage
 
